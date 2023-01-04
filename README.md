@@ -1,2 +1,1 @@
-# TW-Tech-News
-Research for PCR 
+# Global Tech-News
