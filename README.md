@@ -25,6 +25,4 @@ for i, item in enumerate(items):
     print(' Link: ' + item['link'])
     print('Date: ' + item['publish_date'])
     
-    
-# License
-[MIT](https://choosealicense.com/licenses/mit/)
+
